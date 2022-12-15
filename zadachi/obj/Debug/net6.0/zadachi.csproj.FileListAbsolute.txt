@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\bin\Debug\net6.0\zadachi.exe
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\bin\Debug\net6.0\zadachi.deps.json
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\bin\Debug\net6.0\zadachi.runtimeconfig.json
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\bin\Debug\net6.0\zadachi.dll
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\bin\Debug\net6.0\zadachi.pdb
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\obj\Debug\net6.0\zadachi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\obj\Debug\net6.0\zadachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\obj\Debug\net6.0\zadachi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\obj\Debug\net6.0\zadachi.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\obj\Debug\net6.0\zadachi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\obj\Debug\net6.0\zadachi.dll
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\obj\Debug\net6.0\refint\zadachi.dll
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\obj\Debug\net6.0\zadachi.pdb
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\obj\Debug\net6.0\zadachi.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\c#\DZ 7 C#\zadachi\obj\Debug\net6.0\ref\zadachi.dll
